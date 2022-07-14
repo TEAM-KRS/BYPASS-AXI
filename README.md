@@ -9,7 +9,7 @@
 
 git clone https://github.com/TEAM-KRS/BYPASS-LST
 
-cd BYPASS-Lst
+cd BYPASS-LST
 
 ls
 
