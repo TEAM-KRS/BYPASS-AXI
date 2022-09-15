@@ -1,4 +1,4 @@
-# BYPASS-LST
+# BYPASS-AXI
 
 # BYPASS BY TEAM-KRS
 
@@ -7,10 +7,10 @@
 
 # COMMAND
 
-git clone https://github.com/TEAM-KRS/BYPASS-LST
+git clone https://github.com/TEAM-KRS/BYPASS-AXI
 
-cd BYPASS-LST
+cd BYPASS-AXI
 
 ls
 
-python Lst-bypass.py
+python Axi.py
